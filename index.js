@@ -39,7 +39,7 @@ console.log(cat)
 
 // ****************************************************************
 
-// 6. change Persian to Spanish without touching line 36 and 38
+// 6. change Persian to Spanish without touching line 44 and 46
 
 const languagues = ["English", "Arabic", "German", "Persian"]
 
