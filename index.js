@@ -1,7 +1,7 @@
 // 1. the result must be "Flo"
-// const name = "mir"
-// name = 'Flo'
-// console.log(name);
+const name = "mir"
+name = 'Flo'
+console.log(name);
 
 // ****************************************************************
 
