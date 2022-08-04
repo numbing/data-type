@@ -1,40 +1,40 @@
 // 1. the result must be "Flo"
-const name = "mir"
+let name = "mir"
 name = 'Flo'
-console.log(name);
+console.log("1. ",name);
 
 // ****************************************************************
 
 // 2. the result must be Number "45"
 const firstNumber = '12'
 const secondNumber = '33'
-console.log(firstNumber + secondNumber)
+console.log("2. ",firstNumber + secondNumber)
 
 // ****************************************************************
 
 // 3. the result must be "your website is not loaded yet"
 const isLoading = true
 if(isLoading){
-    console.log('your website is loading')
+   console.log("3. ",'your website is loading')
 }else{
-    console.log('your website is not loaded yet');
+   console.log("3. ",'your website is not loaded yet');
 }
 // ****************************************************************
 
 // 4. the result must be 'null'
 let shouldBeNull;
-console.log(shouldBeNull)
+console.log("4. ",shouldBeNull)
 
 // ****************************************************************
 
 // 5. we should see if the cat is lazy or not "true"
 
 const cat = {
-    name: 'malus',
-    race: 'persian',
-    isLazy: true
+   name: 'malus',
+   race: 'persian',
+   isLazy: true
 }
-console.log(cat)
+console.log("5. ",cat)
 
 
 // ****************************************************************
@@ -43,4 +43,4 @@ console.log(cat)
 
 const languagues = ["English", "Arabic", "German", "Persian"]
 
-console.log(languagues[3])
+console.log("6. ",languagues[3])
