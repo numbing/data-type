@@ -1,5 +1,5 @@
 // 1. the result must be "Flo"
-let name = "mir"
+const name = "mir"
 name = 'Flo'
 console.log("1. ",name);
 
