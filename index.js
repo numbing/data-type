@@ -22,7 +22,7 @@ if(isLoading){
 // ****************************************************************
 
 // 4. the result must be 'null'
-let shouldBeNull = null;
+let shouldBeNull;
 console.log(shouldBeNull)
 
 // ****************************************************************
